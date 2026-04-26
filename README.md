@@ -151,8 +151,7 @@ npm run dev
 
 ## 🌟 Key Highlight
 
-> This system goes beyond resume screening by evaluating real skills and guiding users through a structured learning journey.
-
+> This system goes beyond resume screening by evaluating real skills through interaction and guiding users with a structured learning path.
 ---
 
 ## 📜 License
